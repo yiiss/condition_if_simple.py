@@ -1,7 +1,3 @@
-
-
-
-
 def main():
     try:
         readFile=open("test.txt","r")
@@ -12,7 +8,5 @@ def main():
         print("File not found")
     else:
       print("File is readed")
-
-
 
 if __name__ == '__main__':main()

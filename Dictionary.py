@@ -3,9 +3,9 @@
 
 def main():
     #Student={'Name':"hussein alrubaye",'Age':27,'Slary':232.5};
-    Student=dict(Name="hussein alrubaye",Age=27,Slary=232.5);
-    Student['Name']="Hussein Ahmed"
-    Student["Dept"]="software engineer"
+    Student=dict(Name="Yiiss Atlas",Age=27,Slary=232.5);
+    Student['Name']="Atlas Yis"
+    Student["Dept"]="Software Engineer"
     print(Student,type(Student))
     del Student["Dept"]
     print(Student,type(Student))

@@ -2,9 +2,6 @@ def main():
     Age=input("enter your Age:")
     if(int(Age)>=8 and int(Age)<=10):
         print("children")
-        print("children")
-        print("children")
-        print("children")
     elif(int(Age)>=11 and int(Age)<=15):
         print("kids")
     elif(int(Age)>=16 and int(Age)<=18):
