@@ -13,7 +13,4 @@ def main():
     print("End")
 
 
-
-
-
 if __name__ == '__main__':main()
